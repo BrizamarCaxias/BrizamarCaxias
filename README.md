@@ -1,7 +1,7 @@
 ### Hi there, I'm Brizamar Caxias. 👋
 Hi there, I'm Brizamar Caxias👋
 
-<p> I'm a Computer Engineer at Federal University of Ceará  in Sobral-CE (Brazil). I like coffe and subjects about Algorithms, Software Engineering, Linux, Cyber Security and Telecomunication.
+<p> I'm a Computer Engineer at Federal University of Ceará  in Sobral-CE (Brazil). I like coffee and subjects about Algorithms, Software Engineering, Linux, Cyber Security and Telecommunication.
 On my github you will find many projects and tutorials describing how  works some things (Protocols, API, Call System, Oprational System, ... ) and projects associated my interesting study. All tutorials will be written in english.</p>
 
 
